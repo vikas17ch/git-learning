@@ -1,2 +1,2 @@
 # git-learning
-This is to learngit
+This is to learn git
